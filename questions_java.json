@@ -1,0 +1,102 @@
+[
+    {
+        "text": "What data type is used to store text in Java?",
+        "options": ["a) int", "b) String", "c) char"],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to display a message in Java?",
+        "options": ["a) display()", "b) println()", "c) System.out.println()"],
+        "correct": "c"
+    },
+    {
+        "text": "Which keyword is used to inherit from a class in Java?",
+        "options": ["a) extends", "b) implements", "c) inherit"],
+        "correct": "a"
+    },
+    {
+        "text": "Which type of loop is best suited for iterating through an array in Java?",
+        "options": ["a) for-each", "b) while", "c) do-while"],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get the length of a string in Java?",
+        "options": ["a) size()", "b) length()", "c) getLength()"],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to declare a constant in Java?",
+        "options": ["a) const", "b) static", "c) final"],
+        "correct": "c"
+    },
+    {
+        "text": "What does the method `Math.sqrt(16)` return in Java?",
+        "options": ["a) 4", "b) 16", "c) Error"],
+        "correct": "a"
+    },
+    {
+        "text": "Which keyword is used to create an instance of a class in Java?",
+        "options": ["a) instance", "b) new", "c) create"],
+        "correct": "b"
+    },
+    {
+        "text": "Which exception is thrown when you try to access an out-of-bounds index in an array?",
+        "options": ["a) NullPointerException", "b) IndexOutOfBoundsException", "c) ArrayStoreException"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the scope of a variable declared inside a method?",
+        "options": ["a) Global", "b) Local", "c) Static"],
+        "correct": "b"
+    },
+    {
+        "text": "What data type is used to store an integer in Java?",
+        "options": ["a) int", "b) double", "c) float"],
+        "correct": "a"
+    },
+    {
+        "text": "How do you create a static method in Java?",
+        "options": ["a) static void method()", "b) void method()", "c) method() static"],
+        "correct": "a"
+    },
+    {
+        "text": "How do you declare an array of 10 integers in Java?",
+        "options": ["a) int[10] array;", "b) int[] array = new int[10];", "c) array int[10];"],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to check if an object is an instance of a class in Java?",
+        "options": ["a) instanceOf", "b) instanceof", "c) is"],
+        "correct": "b"
+    },
+    {
+        "text": "What does the `substring()` method do in Java?",
+        "options": ["a) Modifies the string", "b) Returns a new string with a portion of the original string", "c) Creates a copy of the string"],
+        "correct": "b"
+    },
+    {
+        "text": "What does the `toString()` method do in Java?",
+        "options": ["a) Returns a string representing the object", "b) Displays the object in the console", "c) Converts an integer to a string"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the return type of the `compareTo()` method in Java?",
+        "options": ["a) int", "b) boolean", "c) String"],
+        "correct": "a"
+    },
+    {
+        "text": "What does the `super` keyword do in Java?",
+        "options": ["a) Accesses the child class variables", "b) Accesses the parent class methods", "c) Creates an object of the parent class"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the type of the variable `var` after the execution of `var = 5 + 2.5;`?",
+        "options": ["a) int", "b) double", "c) float"],
+        "correct": "b"
+    },
+    {
+        "text": "What method is used to convert a string to an integer in Java?",
+        "options": ["a) parseInt()", "b) toInt()", "c) convertInt()"],
+        "correct": "a"
+    }
+]
