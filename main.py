@@ -70,6 +70,12 @@ def manage_user(users):
 # Function to choose a subject
 
 # Function to display the user menu
+def user_menu():
+    print("\nWhat would you like to do?")
+    print("1. View history")
+    print("2. Take a quiz")
+    print("3. Log out")
+    return input("Your choice: ").strip()
 
 # Main function
 def main():
