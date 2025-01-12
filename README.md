@@ -24,7 +24,7 @@ Une application Python de quiz conçue pour tester vos connaissances en informat
 
 ---
 ## Comment utiliser l'application 
-**Étape 1 : Bienvenue** :
+**Étape 1 : Bienvenue** :  
 Lorsque vous démarrez l’application, un menu s'affiche :
 Welcome to the Computer Science Quiz!
 1. Log in
