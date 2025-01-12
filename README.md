@@ -25,25 +25,25 @@ Une application Python de quiz conçue pour tester vos connaissances en informat
 ---
 ## Comment utiliser l'application 
 **Étape 1 : Bienvenue** :  
-Lorsque vous démarrez l’application, un menu s'affiche :
-Welcome to the Computer Science Quiz!
-1. Log in
-2. Exit
-Tapez 1 pour vous connecter ou créer un nouveau compte.
-Tapez 2 pour quitter l'application.
+Lorsque vous démarrez l’application, un menu s'affiche :  
+Welcome to the Computer Science Quiz!  
+1. Log in  
+2. Exit  
+Tapez 1 pour vous connecter ou créer un nouveau compte.  
+Tapez 2 pour quitter l'application.  
 
-**Étape 2 : Connexion/Inscription**:
-Enter your username (name or ID): 
-//entrer votre username ou id
-New user detected. Creating profile.
-Set a password: 
-Profile created successfully!
+**Étape 2 : Connexion/Inscription**:  
+Enter your username (name or ID):   
+//entrer votre username ou id  
+New user detected. Creating profile.  
+Set a password:   
+Profile created successfully!  
 
-et si vous etes un utilisateur deja existant :
-Enter your username (name or ID): sara
-Welcome, sara!
-Enter your password: sss
-Login successful!
+et si vous etes un utilisateur deja existant :  
+Enter your username (name or ID): sara  
+Welcome, sara!  
+Enter your password: sss  
+Login successful!  
 
 **Étape 3 : Menu utilisateur**
 Après connexion, choisissez une action :
