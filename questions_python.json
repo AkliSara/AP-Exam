@@ -1,0 +1,102 @@
+[
+    {
+        "text": "What data type is used to store text in Python?",
+        "options": ["a) int", "b) str", "c) list"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the time complexity of the `append` method for a list in Python?",
+        "options": ["a) O(1)", "b) O(n)", "c) O(log n)"],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to display a message in Python?",
+        "options": ["a) display()", "b) print()", "c) echo()"],
+        "correct": "b"
+    },
+    {
+        "text": "How do you declare a function in Python?",
+        "options": ["a) def", "b) func", "c) function"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the value of `len([1, 2, 3, 4])`?",
+        "options": ["a) 3", "b) 4", "c) 5"],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to import a library in Python?",
+        "options": ["a) include", "b) import", "c) require"],
+        "correct": "b"
+    },
+    {
+        "text": "What does `type(42)` return in Python?",
+        "options": ["a) int", "b) <class 'int'>", "c) Integer"],
+        "correct": "b"
+    },
+    {
+        "text": "Which operator is used for integer division in Python?",
+        "options": ["a) /", "b) //", "c) %"],
+        "correct": "b"
+    },
+    {
+        "text": "What does `3 ** 2` return in Python?",
+        "options": ["a) 6", "b) 9", "c) 8"],
+        "correct": "b"
+    },
+    {
+        "text": "Which library is used for array manipulation in Python?",
+        "options": ["a) pandas", "b) numpy", "c) matplotlib"],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to add an element at the beginning of a list in Python?",
+        "options": ["a) insert()", "b) append()", "c) prepend()"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the type of the variable `var` after executing `var = 5 / 2`?",
+        "options": ["a) int", "b) float", "c) double"],
+        "correct": "b"
+    },
+    {
+        "text": "How do you create an empty list in Python?",
+        "options": ["a) list = {}", "b) list = []", "c) list = ()"],
+        "correct": "b"
+    },
+    {
+        "text": "What does `input()` do in Python?",
+        "options": ["a) Prompts for user input", "b) Returns an integer value", "c) Displays a string"],
+        "correct": "a"
+    },
+    {
+        "text": "What does `3 == 3` return in Python?",
+        "options": ["a) False", "b) True", "c) Error"],
+        "correct": "b"
+    },
+    {
+        "text": "How do you declare a variable that cannot be modified in Python?",
+        "options": ["a) const", "b) final", "c) None"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the result of `5 // 2` in Python?",
+        "options": ["a) 2.5", "b) 2", "c) 3"],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to sort a list in Python?",
+        "options": ["a) sort()", "b) order()", "c) arrange()"],
+        "correct": "a"
+    },
+    {
+        "text": "What does `range(3)` return in Python?",
+        "options": ["a) [0, 1, 2]", "b) (0, 1, 2)", "c) [0, 1, 2, 3]"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the result of `3 * 2 ** 3` in Python?",
+        "options": ["a) 24", "b) 48", "c) 18"],
+        "correct": "a"
+    }
+]

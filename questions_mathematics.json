@@ -1,0 +1,102 @@
+[
+    {
+        "text": "What is the value of π (pi) rounded to two decimal places?",
+        "options": ["a) 3.14", "b) 2.71", "c) 1.41"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the solution to the equation 2x + 5 = 11?",
+        "options": ["a) 2", "b) 3", "c) 4"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the derivative of x² with respect to x?",
+        "options": ["a) x", "b) 2x", "c) x²"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the sum of the angles of a triangle in degrees?",
+        "options": ["a) 90", "b) 180", "c) 360"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the square of 12?",
+        "options": ["a) 122", "b) 144", "c) 132"],
+        "correct": "b"
+    },
+    {
+        "text": "If f(x) = 3x + 4, what is f(2)?",
+        "options": ["a) 10", "b) 11", "c) 12"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of the integral of 1 with respect to x?",
+        "options": ["a) x", "b) 1", "c) 0"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the square root of 121?",
+        "options": ["a) 10", "b) 11", "c) 12"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of 15 ÷ 3 + 2 × 4?",
+        "options": ["a) 14", "b) 11", "c) 13"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the formula for the area of a circle?",
+        "options": ["a) 2πr", "b) πr²", "c) πd"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the derivative of sin(x) with respect to x?",
+        "options": ["a) cos(x)", "b) sin(x)", "c) -sin(x)"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the result of 7 × (4 + 3)?",
+        "options": ["a) 28", "b) 21", "c) 49"],
+        "correct": "a"
+    },
+    {
+        "text": "If a = 5 and b = 3, what is the value of a² + b²?",
+        "options": ["a) 16", "b) 25", "c) 34"],
+        "correct": "c"
+    },
+    {
+        "text": "What is the result of 5! (factorial of 5)?",
+        "options": ["a) 120", "b) 60", "c) 240"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the area of a rectangle with length 6 and width 3?",
+        "options": ["a) 18", "b) 9", "c) 15"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the cube root of 27?",
+        "options": ["a) 3", "b) 9", "c) 81"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the product of 4 × 5 × 6?",
+        "options": ["a) 120", "b) 90", "c) 100"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the volume of a sphere with radius 3?",
+        "options": ["a) 36π", "b) 9π", "c) 27π"],
+        "correct": "a"
+    },
+    {
+        "text": "If x = 3, what is the value of 2x² - 3x + 4?",
+        "options": ["a) 15", "b) 16", "c) 17"],
+        "correct": "a"
+    },
+    {
+        "text": "If a = 2 and b = 5, what is the value of a³ + b³?",
+        "options": ["a) 100", "b) 125", "c) 133"],
+        "correct": "b"
+    }
+]

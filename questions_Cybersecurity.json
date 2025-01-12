@@ -1,0 +1,102 @@
+[
+    {
+        "text": "What does the term `phishing` mean in cybersecurity?",
+        "options": ["a) A network attack", "b) An email fraud attempt", "c) A computer virus"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the recommended key length for RSA?",
+        "options": ["a) 1024 bits", "b) 2048 bits", "c) 512 bits"],
+        "correct": "b"
+    },
+    {
+        "text": "Which tool is commonly used to analyze network traffic?",
+        "options": ["a) Wireshark", "b) Nmap", "c) Metasploit"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the method to secure a password in a database?",
+        "options": ["a) Store it in plain text", "b) Hash it with an algorithm like SHA-256", "c) Encrypt it with a symmetric key"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the role of a firewall in cybersecurity?",
+        "options": ["a) Analyze emails", "b) Block unauthorized connections", "c) Scan files"],
+        "correct": "b"
+    },
+    {
+        "text": "What does a DDoS attack do?",
+        "options": ["a) Prevent access to a service by overwhelming it", "b) Steal data", "c) Install malicious software"],
+        "correct": "a"
+    },
+    {
+        "text": "What is a good practice for creating a secure password?",
+        "options": ["a) Use your first name", "b) Combine uppercase, lowercase, numbers, and symbols", "c) Reuse an existing password"],
+        "correct": "b"
+    },
+    {
+        "text": "What does HTTPS stand for in a URL?",
+        "options": ["a) HyperText Transfer Protocol Secure", "b) HyperText Transmission Protocol Safe", "c) Hyper Transfer Text Protocol Security"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the objective of an SSL/TLS certificate?",
+        "options": ["a) Secure communications between a client and a server", "b) Block DDoS attacks", "c) Scan viruses"],
+        "correct": "a"
+    },
+    {
+        "text": "Which type of malware encrypts data and demands a ransom?",
+        "options": ["a) A Trojan horse", "b) A ransomware", "c) A spyware"],
+        "correct": "b"
+    },
+    {
+        "text": "What does VPN stand for in cybersecurity?",
+        "options": ["a) Virtual Private Network", "b) Virtual Public Network", "c) Verified Public Network"],
+        "correct": "a"
+    },
+    {
+        "text": "Which cybersecurity technique is used to hide a communication on a network?",
+        "options": ["a) Cryptography", "b) Compression", "c) Masking"],
+        "correct": "a"
+    },
+    {
+        "text": "Which type of attack involves attempting to guess a password by trying all possible combinations?",
+        "options": ["a) Brute Force", "b) Phishing", "c) Social Engineering"],
+        "correct": "a"
+    },
+    {
+        "text": "Which communication protocol secures exchanges between a web client and server?",
+        "options": ["a) HTTP", "b) FTP", "c) HTTPS"],
+        "correct": "c"
+    },
+    {
+        "text": "What is the main purpose of an antivirus?",
+        "options": ["a) Protect against physical attacks", "b) Prevent network access", "c) Detect and remove malicious software"],
+        "correct": "c"
+    },
+    {
+        "text": "What is the role of a honeypot in cybersecurity?",
+        "options": ["a) Attract attacks to study techniques used", "b) Encrypt data", "c) Update security systems"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the goal of a Man-in-the-Middle attack?",
+        "options": ["a) Intercept and manipulate communications between two parties", "b) Steal a password", "c) Create a virus"],
+        "correct": "a"
+    },
+    {
+        "text": "What does DDoS stand for?",
+        "options": ["a) Distributed Denial of Service", "b) Digital Domain of Service", "c) Direct Denial of Service"],
+        "correct": "a"
+    },
+    {
+        "text": "What type of attack is phishing?",
+        "options": ["a) Physical attack", "b) Social attack", "c) Network attack"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the goal of a Web Application Firewall (WAF)?",
+        "options": ["a) Block DDoS attacks", "b) Filter malicious HTTP requests", "c) Encrypt sensitive data"],
+        "correct": "b"
+    }
+]

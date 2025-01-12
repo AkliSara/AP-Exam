@@ -1,0 +1,102 @@
+[
+    {
+        "text": "What is the return type of the `main` function in C?",
+        "options": ["a) void", "b) int", "c) float"],
+        "correct": "b"
+    },
+    {
+        "text": "Which library is required to use `printf` in C?",
+        "options": ["a) stdio.h", "b) stdlib.h", "c) string.h"],
+        "correct": "a"
+    },
+    {
+        "text": "What operator is used to get the address of a variable in C?",
+        "options": ["a) *", "b) &", "c) @"],
+        "correct": "b"
+    },
+    {
+        "text": "How do you dynamically allocate an array in C?",
+        "options": ["a) malloc()", "b) calloc()", "c) Both"],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of printf(\"%d\", 10 % 3)?",
+        "options": ["a) 1", "b) 3", "c) 0"],
+        "correct": "a"
+    },
+    {
+        "text": "How do you declare an array of 5 integers in C?",
+        "options": ["a) int tab[5];", "b) int tab{5};", "c) array<int> tab(5);"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the size (in bytes) of a `char` variable in C?",
+        "options": ["a) 1", "b) 2", "c) 4"],
+        "correct": "a"
+    },
+    {
+        "text": "What does `strlen(\"Hello\")` return?",
+        "options": ["a) 5", "b) 6", "c) 0"],
+        "correct": "a"
+    },
+    {
+        "text": "Which keyword is used to declare a constant variable in C?",
+        "options": ["a) const", "b) static", "c) final"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the default initial value of an uninitialized local variable in C?",
+        "options": ["a) 0", "b) Undefined", "c) NULL"],
+        "correct": "b"
+    },
+    {
+        "text": "What data type is returned by the `sizeof` function in C?",
+        "options": ["a) int", "b) float", "c) size_t"],
+        "correct": "c"
+    },
+    {
+        "text": "How do you declare a pointer to a function in C?",
+        "options": ["a) int* ptr();", "b) void* ptr();", "c) int (*ptr)();"],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of printf(\"%d\", 10 / 3)?",
+        "options": ["a) 3", "b) 4", "c) 2"],
+        "correct": "c"
+    },
+    {
+        "text": "How do you call a function in a C program?",
+        "options": ["a) name();", "b) function();", "c) functionName();"],
+        "correct": "c"
+    },
+    {
+        "text": "Which operator is used to access members of a structure in C?",
+        "options": ["a) .", "b) ->", "c) &"],
+        "correct": "a"
+    },
+    {
+        "text": "What does the `sizeof` operator do in C?",
+        "options": ["a) Allocates memory", "b) Returns the size in bytes of a type or variable", "c) Creates a copy of a variable"],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to declare a dynamic array in C?",
+        "options": ["a) malloc", "b) static", "c) new"],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of printf(\"%f\", 10 / 3)?",
+        "options": ["a) 3.0", "b) 3.33", "c) 3"],
+        "correct": "b"
+    },
+    {
+        "text": "What is a `segmentation fault` in C?",
+        "options": ["a) Memory overflow", "b) An error in memory access", "c) A syntax error"],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of the expression `5 / 2` in C?",
+        "options": ["a) 2", "b) 2.5", "c) 3"],
+        "correct": "a"
+    }
+]
