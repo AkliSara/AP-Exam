@@ -45,52 +45,50 @@ Welcome, sara!
 Enter your password: sss  
 Login successful!  
 
-**Étape 3 : Menu utilisateur**
-Après connexion, choisissez une action :
-What would you like to do?
-1. View history
-2. Take a quiz
-3. Log out
-**1.Voir l’historique** : Si vous choisissez 1, l’application affichera votre historique par exemple :
-History of sara:
-- Date: 2024-12-30, Subject: C, Score: 6
-**2.Prendre un quiz** : Si vous choisissez 2, l’application vous demandera de sélectionner un sujet :
-  Choose a subject:
-1. Mathematics
-2. Python
-3. Java
-4. C
-5. Cybersecurity
-Your choice: 4
-**Étape 4 : Répondre aux questions**
-Une fois un sujet choisi, l’application commence le quiz. Vous avez 1 minute pour répondre aux questions.
-Exemple d'exécution d’un quiz :
-Question 1: What is the return type of the `main` function in C?
-a) void
-b) int
-c) float
-Votre réponse : b
-Bonne réponse !
+**Étape 3 : Menu utilisateur**  
+Après connexion, choisissez une action :  
+What would you like to do?  
+1. View history  
+2. Take a quiz  
+3. Log out  
+**1.Voir l’historique** : Si vous choisissez 1, l’application affichera votre historique par exemple :  
+History of sara:  
+- Date: 2024-12-30, Subject: C, Score: 6  
+**2.Prendre un quiz** : Si vous choisissez 2, l’application vous demandera de sélectionner un sujet :  
+  Choose a subject:  
+1. Mathematics  
+2. Python  
+3. Java  
+4. C  
+5. Cybersecurity  
+Your choice: 4  
+**Étape 4 : Répondre aux questions**  
+Une fois un sujet choisi, l’application commence le quiz. Vous avez 1 minute pour répondre aux questions.  
+Exemple d'exécution d’un quiz :  
+Question 1: What is the return type of the `main` function in C?  
+a) void  
+b) int  
+c) float  
+Votre réponse : b  
+Bonne réponse !  
 
-Question 2: Which library is required to use `printf` in C?
-a) stdio.h
-b) stdlib.h
-c) string.h
-Votre réponse : c
-Mauvaise réponse. La bonne réponse était : a
+Question 2: Which library is required to use `printf` in C?  
+a) stdio.h  
+b) stdlib.h  
+c) string.h  
+Votre réponse : c  
+Mauvaise réponse. La bonne réponse était : a  
 
 
-Lorsque le temps est écoulé :
-Time's up!
-Quiz terminé. Temps total : 0:59s
-Your final score: 1/2
-Thank you for participating!
+Lorsque le temps est écoulé :  
+Time's up!  
+Quiz terminé. Temps total : 0:59s  
+Your final score: 1/2  
+Thank you for participating!  
 
-**Étape 5 : Déconnexion**
-Si vous choisissez 3 dans le menu utilisateur, vous serez déconnecté et retournerez au menu principal.
+**Étape 5 : Déconnexion**  
+Si vous choisissez 3 dans le menu utilisateur, vous serez déconnecté et retournerez au menu principal.  
 
-Contact
-Pour toute question ou suggestion :
 
 
 
